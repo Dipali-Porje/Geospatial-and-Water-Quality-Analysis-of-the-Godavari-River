@@ -80,7 +80,5 @@ Godavari-Analysis/
 │   └── *.tiff                 # Satellite imagery files
 ├── notebooks/
 │   └── godavari_analysis.ipynb  # Jupyter Notebook with full code
-├── outputs/
-│   └── visualizations/        # Plots and NDWI maps
 ├── README.md
-└── requirements.txt           # Python dependencies
+
